@@ -11,8 +11,9 @@ We started with Descriptive Statistics: Types of Data, Frequency distribution, N
 
 
 06-07-2019:
+We did
+Exercises from the above using EXCEL, 
 We Learnt about
-Exercises from the above using EXCEL
 Coefficient of Variance, Percentile, Box and Whisker plots, Correlation and Covariance 
 
 
