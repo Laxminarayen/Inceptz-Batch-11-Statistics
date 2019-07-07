@@ -5,7 +5,9 @@ I will upload all the Statistics ppts used to teach in class in this github repo
 30-06-2019:
 We Learnt about 
 Two types of Statistics
-We started with Descriptive Statistics: Types of Data, Frequency distribution, Normal distribution, Measures of Central Tendency, Measures of Dispersion
+We started with Descriptive Statistics: Types of Data, Frequency distribution, Normal distribution, Measures of Central Tendency, Measures of Dispersion.
+
+
 06-07-2019:
 We Learnt about
 Exercises from the above using EXCEL
