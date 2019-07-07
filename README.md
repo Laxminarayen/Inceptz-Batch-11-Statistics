@@ -1,7 +1,9 @@
 # Inceptz-Batch-11 Statistics
 I will upload all the Statistics ppts used to teach in class in this github repository
 
-[Statistics -1 ](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/01%20-%20Day%20-%201%20Analytics_Python): 30-06-2019 & 06-07-2019: 
+[Statistics -1 ](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/01%20-%20Day%20-%201%20Analytics_Python): 30-06-2019 & 06-07-2019:
+
+
 30-06-2019:
 We Learnt about 
 Two types of Statistics
