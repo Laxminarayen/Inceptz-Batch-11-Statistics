@@ -16,7 +16,7 @@ derivation for the equation of SD, Exercises for the above in EXCEL,
 We Learnt about
 Coefficient of Variance, Percentile, Box and Whisker plots, Correlation and Covariance 
 
-[Statistics -2](https://github.com/Laxminarayen/Inceptz-Batch-11-Statistics/tree/master/Statistics%20-%202): 07-07-2019
+[Statistics -2](https://github.com/Laxminarayen/Inceptz-Batch-11-Statistics/tree/master/Statistics%20-%202): 07-07-2019 & 13-07-2019
 
 
 07-07-2019:
@@ -29,3 +29,19 @@ CLT,
 Standard Error,
 Z - Score and Z - Table
 
+13-07-2019:
+We did the:
+Exercises on Descriptive Statistics using EXCEL
+
+[Statistics - 3](https://github.com/Laxminarayen/Inceptz-Batch-11-Statistics/tree/master/Statistics%20-%202): 13-07-2019
+
+
+13-07-2019:
+We Learnt:
+What is an Hypothesis, 
+Null Hypothesis,
+Alternate Hypothesis,
+How to frame Null and Alternate Hypothesis, 
+Level of Significance, 
+Confiedence Intervals, 
+Steps for hypothesis testing
