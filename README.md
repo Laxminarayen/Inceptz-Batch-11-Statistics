@@ -45,3 +45,13 @@ How to frame Null and Alternate Hypothesis,
 Level of Significance, 
 Confiedence Intervals, 
 Steps for hypothesis testing
+
+20-07-2019:
+We saw:
+what is a critical value,
+Z - Test,
+T - Test, 
+Chi Square Test and 
+ANOVA
+and We learnt:
+How to implement them in EXCEL
