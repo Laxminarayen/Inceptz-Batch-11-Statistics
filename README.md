@@ -33,7 +33,7 @@ Z - Score and Z - Table
 We did the:
 Exercises on Descriptive Statistics using EXCEL
 
-[Statistics - 3](https://github.com/Laxminarayen/Inceptz-Batch-11-Statistics/tree/master/Statistics%20-%202): 13-07-2019
+[Statistics - 3](https://github.com/Laxminarayen/Inceptz-Batch-11-Statistics/tree/master/Statistics%20-%202): 13-07-2019 & 20-07-2019
 
 
 13-07-2019:
