@@ -55,3 +55,11 @@ Chi Square Test and
 ANOVA
 and We learnt:
 How to implement them in EXCEL
+
+[Probability](https://github.com/Laxminarayen/Inceptz-Batch-11-Statistics/tree/master/Statistics%20-%202): 13-07-2019 & 20-07-2019
+
+
+13-07-2019:
+We Learnt:
+What is Probability and did revision on entire topics again.
+
