@@ -33,7 +33,7 @@ Z - Score and Z - Table
 We did the:
 Exercises on Descriptive Statistics using EXCEL
 
-[Statistics - 3](https://github.com/Laxminarayen/Inceptz-Batch-11-Statistics/tree/master/Statistics%20-%202): 13-07-2019
+[Statistics - 3](https://github.com/Laxminarayen/Inceptz-Batch-11-Statistics/tree/master/Statistics%20-%202): 13-07-2019 & 20-07-2019
 
 
 13-07-2019:
@@ -45,3 +45,13 @@ How to frame Null and Alternate Hypothesis,
 Level of Significance, 
 Confiedence Intervals, 
 Steps for hypothesis testing
+
+20-07-2019:
+We saw:
+what is a critical value,
+Z - Test,
+T - Test, 
+Chi Square Test and 
+ANOVA
+and We learnt:
+How to implement them in EXCEL
